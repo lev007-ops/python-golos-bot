@@ -1,5 +1,7 @@
 .venv/
-__pycashe__/
+__pycache__/
 *pyc
 *pyi
 *whl
+golos_test.ipynb
+t.py
